@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    margin: 0% 0%;
+
+}
+.navbar{
+    height: 10vh;
+    width: 100vh;
+    display: flex;
+
+}
+.navbar-item1{margin-left: 5%;
+   margin-top: 5%;
+   margin-left: 5%;
+   margin-right: 5%;
+
+}
+.navbar-item2{
+   
+   width: 100%;
+   height: 100%;
+    display: flex;
+    flex-direction: row;
+
+
+}
+.navbar a{height: 48%;
+    
+    margin-top: 5%;
+    margin-right: 8%;
+   border: 4px solid gray;
+   border-radius: 5px;
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
